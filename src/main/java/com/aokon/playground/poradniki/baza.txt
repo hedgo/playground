@@ -1,0 +1,8 @@
+# I H2
+http://localhost:8080/h2-console    (needed depdendency spring-boot-devtools)
+i wpisuje w URL wpis z logów przy starcie np. "jdbc:h2:mem:3ec77d0e-b358-4a02-86b2-10c2351e1182"
+password jest puste by default
+www: https://www.baeldung.com/spring-boot-h2-database
+
+
+

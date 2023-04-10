@@ -1,0 +1,15 @@
+Rest + Spring Data Rest
+H2 + Postgres(docker)
+Kafka (docker)
+Testy unit/e2e(api+components)/cucumber
+Prometheus(micrometer) + Graphana(docker)
+Wiremock(docker)
+Spock
+Docker compose
+Aws S3/DB/Kafa depoloy on your priv cloud
+Test Containers
+Swagger
+SpringBoot Actuator
+JWT/OAuth2.0 (Roles&Users)
+JPA(OneToMany)
+
