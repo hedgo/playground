@@ -1,6 +1,6 @@
 Rest + Spring Data Rest
 H2 + Postgres(docker)
-Kafka (docker)
+Kafka (docker)  Jakiś Kafka Viewer(docker)
 Testy unit/e2e(api+components)/cucumber
 Prometheus(micrometer) + Graphana(docker)
 Wiremock(docker)
@@ -12,4 +12,7 @@ Swagger
 SpringBoot Actuator
 JWT/OAuth2.0 (Roles&Users)
 JPA(OneToMany)
+Liquibase
+Reactive...
+
 
